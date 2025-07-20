@@ -108,8 +108,8 @@ function App() {
               transition={{ duration: 0.8, delay: 0.5 }}
             >
               <p className="text-xl text-black/90 leading-relaxed">
-                I'm a Computer Science student at Princeton passionate about using{" "}
-                                 <ScrambleHover
+                I'm a computer science student at Princeton passionate about using{" "}
+            <ScrambleHover
                    text="data science"
                    scrambleSpeed={70}
                    characters="0123456789!@#$%^&*()"
